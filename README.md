@@ -27,3 +27,6 @@ make
 
 # Run
 ./oop24 files/categories.txt files/products.txt files/users.txt
+```
+
+---
