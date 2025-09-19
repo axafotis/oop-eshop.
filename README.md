@@ -22,5 +22,8 @@ Supports two types of users:
 
 ## How to Run
 ```bash
-g++ main.cpp -o oop24
+# Build (from repo root)
+make
+
+# Run
 ./oop24 files/categories.txt files/products.txt files/users.txt
